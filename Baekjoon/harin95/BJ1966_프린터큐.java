@@ -3,7 +3,7 @@ package AlgorithmStudy.Baekjoon.harin95;
 import java.util.*;
 import java.io.*;
 
-public class Main_1966_프린터큐 {
+public class BJ1966_프린터큐 {
 
     //문서를 객체로 만든다
     private static class Document{
