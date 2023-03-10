@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.OutputStreamWriter;
 import java.util.Scanner;
 
-public class _10974_모든순열 {
+public class BJ10974_모든순열 {
     static int N, numbers[];
     static boolean[] visited;
     static StringBuilder sb = new StringBuilder();

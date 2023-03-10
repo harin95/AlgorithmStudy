@@ -3,7 +3,7 @@ package AlgorithmStudy.Baekjoon.BSDSB;
 import java.io.*;
 import java.util.StringTokenizer;
 
-public class _1316_그룹단어체커 {
+public class BJ1316_그룹단어체커 {
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
     static StringTokenizer st;

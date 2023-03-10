@@ -3,7 +3,7 @@ package AlgorithmStudy.Baekjoon.BSDSB;
 import java.io.*;
 import java.util.StringTokenizer;
 
-public class _13458_시험감독 {
+public class BJ13458_시험감독 {
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
     static StringBuffer sb = new StringBuffer();
