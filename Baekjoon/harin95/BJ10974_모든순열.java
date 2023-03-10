@@ -3,7 +3,7 @@ package AlgorithmStudy.Baekjoon.harin95;
 import java.io.*;
 import java.util.StringTokenizer;
 
-public class Main_10974_모든순열 {
+public class BJ10974_모든순열 {
 	
 	static int[] arr;
 	static int n;
