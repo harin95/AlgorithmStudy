@@ -2,7 +2,7 @@ package AlgorithmStudy.Baekjoon.BSDSB;
 
 import java.util.Scanner;
 
-public class _5622_다이얼 {
+public class BJ5622_다이얼 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String alpa = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";

@@ -3,7 +3,7 @@ package AlgorithmStudy.Baekjoon.BSDSB;
 import java.io.*;
 import java.util.*;
 
-public class _1966_프린터큐 {
+public class BJ1966_프린터큐 {
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
     static StringBuilder sb = new StringBuilder();
