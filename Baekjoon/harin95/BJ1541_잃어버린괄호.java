@@ -3,7 +3,7 @@ package AlgorithmStudy.Baekjoon.harin95;
 import java.util.*;
 import java.io.*;
 
-public class Main_1541_잃어버린괄호 {
+public class BJ1541_잃어버린괄호 {
     public static void main(String[] args) throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));

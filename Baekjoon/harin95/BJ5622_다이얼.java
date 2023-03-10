@@ -1,10 +1,8 @@
 package AlgorithmStudy.Baekjoon.harin95;
 
-import java.nio.Buffer;
-import java.util.*;
 import java.io.*;
 
-public class Main_5622_다이얼 {
+public class BJ5622_다이얼 {
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         char[] input = br.readLine().toCharArray();
